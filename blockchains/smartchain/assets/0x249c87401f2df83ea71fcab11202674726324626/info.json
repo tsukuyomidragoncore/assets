@@ -1,0 +1,48 @@
+{
+    "name": "TSUKUYOMI DRAGON",
+    "type": "BEP20",
+    "symbol": "TSUK",
+    "decimals": 18,
+    "website": "https://www.tsukuyomidragon.io/",
+    "description": "Tsukuyomi Dragon is a Web3 ecosystem consists of P2E Mobile Game (Android & iOS), Token (BSC & ETH), 10K NFT Collection (Ethereum, Polygon, Binance and Avalanche), NFT Marketplace (4 Blockchains), Staking (4 Blockchains), Rewards and Merchandise.",
+    "explorer": "https://bscscan.com/token/0x249c87401f2df83ea71fcab11202674726324626",
+    "status": "active",
+    "id": "0x249c87401f2df83ea71fcab11202674726324626"
+}
+
+{
+    "name": "TSUKUYOMI DRAGON",
+    "website": "https://www.tsukuyomidragon.io/",
+    "description": "Tsukuyomi Dragon is a Web3 ecosystem consists of P2E Mobile Game (Android & iOS), Token (BSC & ETH), 10K NFT Collection (Ethereum, Polygon, Binance and Avalanche), NFT Marketplace (4 Blockchains), Staking (4 Blockchains), Rewards and Merchandise.",
+    "explorer": "https://bscscan.com/token/0x249c87401f2df83ea71fcab11202674726324626",
+    "research": "https://www.tsukuyomidragon.io/",
+    "symbol": "TSUK",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "sports-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/tsukuyomidragoncore"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tsukuyomidragon/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/3MwVXJGu4Q"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.tsukuyomidragon.io/_files/ugd/6681d3_8847744164f0410a90ec6bbdc82bf576.pdf"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/TsukuyomiDragon_io/"
+        }
+    ]
+}
